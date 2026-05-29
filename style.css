@@ -1,0 +1,75 @@
+.body
+{
+    font-family: Arial;
+    background-color: #e7e5dd;
+    margin: 0;
+}
+.header
+{
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+    padding: 15px;
+}
+.menu
+{
+    text-decoration: none;
+    color:#f5f3f3
+}
+.gambar
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    mix-blend-mode: multiply;
+}
+.discription
+{
+    text-align: left;
+    margin-left: 600px;
+    font size: 20px;
+    padding: 15px;
+}
+.footer
+{
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+    padding: 25px;
+    margin-top: 50px;
+}
+.information
+{
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.5;
+    padding: 40px;
+    color:#000000
+}
+.butiran
+{
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.5;
+    padding: 50px;
+    color:#000000
+    
+}
+.input, textarea
+{
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 80px;
+}
+.button
+{
+    background-color: #000000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 700px;
+}
